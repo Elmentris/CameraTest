@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+   <style name="CameraTest.Main" parent="@style/Theme.AppCompat.Light.NoActionBar">
+       <item name="colorPrimary">#ffffff</item>
+       <item name="colorPrimaryDark">#ffffff</item>
+       <item name="android:textColorSecondary">#ffffff</item>
+       <item name="android:colorBackground">#ffffff</item>
+       <item name="android:colorPrimaryDark">#ffffff</item>
+       <item name="android:statusBarColor">#ffffff</item>
+       <item name="colorControlNormal">#ffffff</item>
+       <item name="actionMenuTextColor">#ffffff</item>
+       <item name="android:editTextColor">#ffffff</item>
+       <item name="actionMenuTextColor">#ffffff</item>
+   </style>
+</resources>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <!--BaseActivity-->
+    <item name="BaseMainConstraintLayout" type="id">
+    </item>
+    <item name="BaseElementsConstraintLayout" type="id">
+    </item>
+    <item name="BasePreLoaderConstraintLayout" type="id">
+    </item>
+    <item name="BaseProgressBar" type="id">
+    </item>
+    <item name="BaseLogoImageView" type="id">
+    </item>
+    <item name="BaseScrollView" type="id">
+    </item>
+    <!--BaseToolbarActivity-->
+    <item name="toolbar" type="id">
+    </item>
+    <!--BaseToolbarActivity-->
+    <item name="toolbar" type="id">
+    </item>
+</resources>
